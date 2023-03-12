@@ -15,9 +15,9 @@ const StudioNavbar = (props: any) => {
             <h1 className="font-bold text-white">Check out my portfolio</h1>
             <Link
               className="text-[#8F00FF] font-bold ml-2"
-              href="https://alladin-daher.netlify.app/"
+              href="https://www.sanjayguwaju.com.np/"
             >
-              www.alladin-daher.netlify.app
+              Sanjay's Portfolio Link
             </Link>
           </div>
         </div>

@@ -3,7 +3,9 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"start": "next start"
+		"start": "next start",
+		"deploy": "sanity deploy",
+		"deploy-gql": "sanity graphql deploy"
 	},
 	"dependencies": {
 		"@heroicons/react": "^2.0.13",

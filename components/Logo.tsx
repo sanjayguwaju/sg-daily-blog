@@ -9,7 +9,7 @@ const Logo = (props: any) => {
         className="rounded-full object-cover"
         width={50}
         height={50}
-        src="https://avatars.githubusercontent.com/u/55769408?v=4"
+        src="https://res.cloudinary.com/dvtw2zpbt/image/upload/v1678214213/sgSanjayGuwaju_cpxf0k.jpg"
         alt="logo"
       />
       {/* <>{renderDefault(props)}</> */}
