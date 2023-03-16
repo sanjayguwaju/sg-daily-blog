@@ -1,14 +1,14 @@
-# NextJS-Sanity-Blog
+# Sanjay-Daily-Blog
 
 For this project I built a Blog with Next.js 13 (Sanity v3, TypeScript, Tailwind CSS, Auth, CMS, Preview Mode) and Vercel for deployment.
 
 ## Screen
 
-![](public/cover.png)
+![]()
 
 ## Link
 
-- [NextJS Blog](https://adperformance-blog.vercel.app/)
+- [NextJS Blog](https://sg-daily-blog.vercel.app/)
 
 ### Next.js + Tailwind CSS Example
 
